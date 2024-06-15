@@ -1,0 +1,99 @@
+[11-Jun-2024 10:26:53 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/registration.php on line 11
+[11-Jun-2024 10:26:53 UTC] PHP Notice:  Undefined index: pincode in /home/niyumart/public_html/temple/registration.php on line 14
+[11-Jun-2024 10:38:13 UTC] PHP Notice:  Undefined index: ses_email in /home/niyumart/public_html/temple/otp.php on line 99
+[11-Jun-2024 10:38:45 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/registration.php on line 11
+[11-Jun-2024 10:40:44 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/registration.php on line 11
+[11-Jun-2024 10:41:39 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/registration.php on line 11
+[11-Jun-2024 10:51:18 UTC] PHP Notice:  Undefined index: ses_otp in /home/niyumart/public_html/temple/otp.php on line 7
+[11-Jun-2024 10:51:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 10:51:22 UTC] PHP Notice:  Undefined index: ses_otp in /home/niyumart/public_html/temple/otp.php on line 7
+[11-Jun-2024 10:51:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 10:51:22 UTC] PHP Notice:  Undefined variable: result in /home/niyumart/public_html/temple/otp.php on line 20
+[11-Jun-2024 10:51:45 UTC] PHP Notice:  Undefined index: ses_otp in /home/niyumart/public_html/temple/otp.php on line 7
+[11-Jun-2024 10:51:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 10:51:45 UTC] PHP Notice:  Undefined variable: result in /home/niyumart/public_html/temple/otp.php on line 20
+[11-Jun-2024 10:52:26 UTC] PHP Notice:  Undefined index: ses_otp in /home/niyumart/public_html/temple/otp.php on line 7
+[11-Jun-2024 10:52:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 10:52:26 UTC] PHP Notice:  Undefined variable: result in /home/niyumart/public_html/temple/otp.php on line 20
+[11-Jun-2024 10:52:49 UTC] PHP Notice:  Undefined variable: result in /home/niyumart/public_html/temple/otp.php on line 20
+[11-Jun-2024 10:52:56 UTC] PHP Notice:  Undefined variable: result in /home/niyumart/public_html/temple/otp.php on line 20
+[11-Jun-2024 10:53:05 UTC] PHP Notice:  Undefined variable: result in /home/niyumart/public_html/temple/otp.php on line 20
+[11-Jun-2024 11:15:11 UTC] PHP Notice:  Undefined index: id in /home/niyumart/public_html/temple/otp.php on line 10
+[11-Jun-2024 11:15:26 UTC] PHP Notice:  Undefined index: id in /home/niyumart/public_html/temple/otp.php on line 10
+[11-Jun-2024 11:23:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 11:23:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 10
+[11-Jun-2024 11:52:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 9
+[11-Jun-2024 11:52:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 10
+[11-Jun-2024 11:52:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 9
+[11-Jun-2024 11:52:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 10
+[11-Jun-2024 11:56:43 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 11:56:43 UTC] PHP Notice:  Undefined index: password in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 11:57:37 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 11:57:37 UTC] PHP Notice:  Undefined index: password in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 11:59:56 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 11:59:56 UTC] PHP Notice:  Undefined index: password in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 11:59:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 11
+[11-Jun-2024 11:59:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 12
+[11-Jun-2024 11:59:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 13
+[11-Jun-2024 12:00:14 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 12:00:14 UTC] PHP Notice:  Undefined index: password in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 12:00:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 11
+[11-Jun-2024 12:00:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 12
+[11-Jun-2024 12:00:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 13
+[11-Jun-2024 12:01:31 UTC] PHP Notice:  Undefined index: email in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 12:01:31 UTC] PHP Notice:  Undefined index: password in /home/niyumart/public_html/temple/login.php on line 7
+[11-Jun-2024 12:01:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 11
+[11-Jun-2024 12:01:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 12
+[11-Jun-2024 12:01:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 13
+[11-Jun-2024 12:02:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 11
+[11-Jun-2024 12:02:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 12
+[11-Jun-2024 12:02:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 13
+[11-Jun-2024 12:05:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 11
+[11-Jun-2024 12:05:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 12
+[11-Jun-2024 12:05:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 13
+[11-Jun-2024 12:05:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 15
+[11-Jun-2024 12:06:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 11
+[11-Jun-2024 12:06:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 12
+[11-Jun-2024 12:06:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 13
+[11-Jun-2024 12:06:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/login.php on line 15
+[11-Jun-2024 12:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/niyumart/public_html/temple/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/niyumart/public_html/temple/login.php on line 16
+[11-Jun-2024 12:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/niyumart/public_html/temple/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/niyumart/public_html/temple/login.php on line 16
+[11-Jun-2024 12:11:38 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/niyumart/public_html/temple/login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/niyumart/public_html/temple/login.php on line 25
+[11-Jun-2024 12:11:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/niyumart/public_html/temple/login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/niyumart/public_html/temple/login.php on line 25
+[11-Jun-2024 12:17:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 12:17:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 10
+[11-Jun-2024 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 10
+[11-Jun-2024 12:21:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/niyumart/public_html/temple/header.php on line 174
+[11-Jun-2024 12:23:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 12:23:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 10
+[11-Jun-2024 12:23:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/niyumart/public_html/temple/header.php on line 1
+[11-Jun-2024 12:23:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 9
+[11-Jun-2024 12:23:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/otp.php on line 10
+[11-Jun-2024 12:23:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/niyumart/public_html/temple/header.php on line 1
+[11-Jun-2024 12:23:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/niyumart/public_html/temple/header.php on line 1
+[11-Jun-2024 12:23:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/niyumart/public_html/temple/header.php on line 1
+[11-Jun-2024 12:28:31 UTC] PHP Notice:  Undefined variable: con in /home/niyumart/public_html/temple/header.php on line 2
+[11-Jun-2024 12:28:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/niyumart/public_html/temple/header.php on line 2
+[11-Jun-2024 12:28:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/niyumart/public_html/temple/header.php on line 3
+[11-Jun-2024 12:28:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/header.php on line 180
+[11-Jun-2024 12:28:34 UTC] PHP Notice:  Undefined variable: con in /home/niyumart/public_html/temple/header.php on line 2
+[11-Jun-2024 12:28:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/niyumart/public_html/temple/header.php on line 2
+[11-Jun-2024 12:28:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/niyumart/public_html/temple/header.php on line 3
+[11-Jun-2024 12:28:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/header.php on line 180
+[11-Jun-2024 12:28:49 UTC] PHP Notice:  Undefined variable: con in /home/niyumart/public_html/temple/header.php on line 2
+[11-Jun-2024 12:28:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/niyumart/public_html/temple/header.php on line 2
+[11-Jun-2024 12:28:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/niyumart/public_html/temple/header.php on line 3
+[11-Jun-2024 12:28:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/niyumart/public_html/temple/header.php on line 180
